@@ -1,7 +1,7 @@
 # API Copilot
 Your smart assistant for understanding, navigating, and using APIs — right inside your IDE.
 
-![](scrrenshoots/api-copilot.png)
+![](screenshoots/api-copilot.png)
 
 ## Features
 - Supports OpenAPI, Swagger Hub, Apifox.
