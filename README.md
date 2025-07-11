@@ -9,6 +9,7 @@ Your smart assistant for understanding, navigating, and using APIs — right ins
 - Path completion.
 - Jump to documentation from path.
 - Quick search API.
+- Generate code.
 - More features are developing...
 
 ## Usages
@@ -16,3 +17,4 @@ Your smart assistant for understanding, navigating, and using APIs — right ins
 2. Ctrl + \ to search API.
 3. Typed slash '/' in editor to code completion.
 4. Ctrl + click jumpt to API document.
+5. Right-click on request for generate code.
